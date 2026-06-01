@@ -1,0 +1,4 @@
+[submodule "inezstroobandtportfolio/public"]
+	path = inezstroobandtportfolio/public
+	url = https://github.com/istroobandt/istroobandt.github.io.git
+	branch = main
