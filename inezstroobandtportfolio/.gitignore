@@ -1,0 +1,29 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# Hugo build artifacts
+public/
+resources/
+.hugo_build.lock
+hugo_stats.json
+
+# Node.js / package manager
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# Build/temp artifacts
+.dist
+.tmp
+.lock
+.sass-cache
+builds/
+
+# Generated config
+jsconfig.json
+
+# Local workspace metadata
+.agents/
+.worktrees/
