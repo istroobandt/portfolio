@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Lovable on Inez Stroobandt Portfolio</title>
+		<link>https://istroobandt.github.io/nl/tags/lovable/</link>
+		<description>Recent content in Lovable on Inez Stroobandt Portfolio</description>
+		<generator>Hugo</generator>
+		<language>nl-NL</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://istroobandt.github.io/nl/tags/lovable/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Vibe Coding Hackathon</title>
+				<link>https://istroobandt.github.io/nl/posts/lovable/</link>
+				<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>https://istroobandt.github.io/nl/posts/lovable/</guid>
+				<description>&lt;p&gt;Op 10 maart 2026 nam ik deel aan de &lt;strong&gt;Vibe Coding Hackathon&lt;/strong&gt;, georganiseerd door Howest. Het was een volledige dag waarin teams van een vaag idee naar een werkende applicatie moesten gaan. Dat het evenement uitverkocht was, liet meteen zien dat er veel interesse voor was.&lt;/p&gt;&#xA;&lt;p&gt;In tegenstelling tot de vorige Tech&amp;amp;Meet-avonden was dit geen passieve luistersessie, maar een hands-on competitie. Het centrale concept was &lt;strong&gt;vibe coding&lt;/strong&gt;: software bouwen door AI-modellen zoals Claude, GPT-4o of Gemini aan te sturen via natuurlijke taal, in plaats van zelf regels code te schrijven. De slogan van het evenement vatte het goed samen: jij levert de visie, de AI doet het zware werk.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

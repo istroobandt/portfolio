@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>.NET 10 on Inez Stroobandt Portfolio</title>
+		<link>https://istroobandt.github.io/tags/.net-10/</link>
+		<description>Recent content in .NET 10 on Inez Stroobandt Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://istroobandt.github.io/tags/.net-10/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>.NET 10 Demystified</title>
+				<link>https://istroobandt.github.io/posts/demystified/</link>
+				<pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>https://istroobandt.github.io/posts/demystified/</guid>
+				<description>&lt;p&gt;On November 18, 2025, I attended the &lt;strong&gt;.NET 10 Demystified&lt;/strong&gt; session, hosted on the Howest campus in Bruges. It was a one-off two-hour evening session for developers and students who wanted to understand what the newest version of the .NET platform actually changes and what that means in practice.&lt;/p&gt;&#xA;&lt;p&gt;The speaker was &lt;strong&gt;Kevin DeRudder&lt;/strong&gt;, a familiar name in the Belgian .NET community. He is a full-stack web developer with a focus on &lt;strong&gt;ASP.NET&lt;/strong&gt; and works as a trainer and coach. He is also one of the organizers behind &lt;strong&gt;Techorama&lt;/strong&gt;, one of the largest developer conferences in Belgium and the Netherlands. He also speaks regularly at international conferences such as &lt;strong&gt;NDC&lt;/strong&gt;. It quickly becomes clear that he not only has a lot of technical knowledge, but also knows how to explain it clearly.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

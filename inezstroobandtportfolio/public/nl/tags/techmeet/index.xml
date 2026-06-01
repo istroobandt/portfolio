@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tech&amp;Meet on Inez Stroobandt Portfolio</title>
+		<link>https://istroobandt.github.io/nl/tags/techmeet/</link>
+		<description>Recent content in Tech&amp;Meet on Inez Stroobandt Portfolio</description>
+		<generator>Hugo</generator>
+		<language>nl-NL</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://istroobandt.github.io/nl/tags/techmeet/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>.NET 10 Demystified</title>
+				<link>https://istroobandt.github.io/nl/posts/demystified/</link>
+				<pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>https://istroobandt.github.io/nl/posts/demystified/</guid>
+				<description>&lt;p&gt;Op 18 november 2025 woonde ik de sessie &lt;strong&gt;.NET 10 Demystified&lt;/strong&gt; bij, georganiseerd op de Howest-campus in Brugge. Het was een eenmalige avondsessie van twee uur, bedoeld voor developers en studenten die wilden begrijpen wat de nieuwste versie van het .NET-platform nu eigenlijk verandert en wat dat in de praktijk betekent.&lt;/p&gt;&#xA;&lt;p&gt;De spreker was &lt;strong&gt;Kevin DeRudder&lt;/strong&gt;, een bekende naam in de Belgische .NET-community. Hij is fullstack webdeveloper met een focus op &lt;strong&gt;ASP.NET&lt;/strong&gt; en werkt als trainer en coach. Daarnaast is hij een van de organisatoren achter &lt;strong&gt;Techorama&lt;/strong&gt;, een van de grootste developerconferenties van België en Nederland. Hij spreekt ook regelmatig op internationale conferenties zoals &lt;strong&gt;NDC&lt;/strong&gt;. Je merkt snel dat hij niet alleen veel technische kennis heeft, maar ook goed weet hoe hij die helder moet uitleggen.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cross-Platform App Development with Flutter</title>
+				<link>https://istroobandt.github.io/nl/posts/flutter/</link>
+				<pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>https://istroobandt.github.io/nl/posts/flutter/</guid>
+				<description>&lt;p&gt;Op 5 november 2025 woonde ik een Tech&amp;amp;Meet-avond bij aan Howest, georganiseerd door het &lt;strong&gt;Cyber3Lab&lt;/strong&gt;. Het evenement duurde anderhalf uur en draaide volledig rond &lt;strong&gt;Flutter&lt;/strong&gt;, het &lt;strong&gt;cross-platform framework van Google&lt;/strong&gt;. Net zoals de Hugging Face-sessie een week eerder, past dit in de reeks Tech&amp;amp;Meet-avonden die het Cyber3Lab regelmatig organiseert voor studenten en professionals. Flutter zelf heeft ook een actieve meetup-gemeenschap in België.&lt;/p&gt;&#xA;&lt;p&gt;Het doelpubliek was breed: developers, designers en tech decision-makers die wilden begrijpen wat &amp;ldquo;build once, deploy everywhere&amp;rdquo; in de praktijk betekent. Dat merkte je ook aan de sfeer: zowel studenten als professionals waren aanwezig.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Open Minds, Open Models: Exploring the Open-Source AI Ecosystem</title>
+				<link>https://istroobandt.github.io/nl/posts/hugging-face/</link>
+				<pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+				<guid>https://istroobandt.github.io/nl/posts/hugging-face/</guid>
+				<description>&lt;p&gt;Op 28 oktober 2025 woonde ik een Tech&amp;amp;Meet-avond bij aan Howest, georganiseerd door het &lt;strong&gt;Cyber3Lab&lt;/strong&gt;. Het was een sessie van twee uur die volledig in het teken stond van &lt;strong&gt;open-source AI&lt;/strong&gt; en het &lt;strong&gt;Hugging Face-ecosysteem&lt;/strong&gt;. Dit past in de reeks Tech&amp;amp;Meet-avonden die het Cyber3Lab regelmatig organiseert voor studenten en professionals.&lt;/p&gt;&#xA;&lt;p&gt;De spreker was &lt;strong&gt;Niels Rogge&lt;/strong&gt;, en zijn profiel was ronduit indrukwekkend. Hij werkt als machine learning engineer bij &lt;strong&gt;ML6&lt;/strong&gt;, een Belgisch AI-consultancybedrijf dat generatieve AI-toepassingen implementeert voor grote bedrijven in de Benelux, Duitsland en daarbuiten. Daarnaast werkt hij deeltijds bij &lt;strong&gt;Hugging Face&lt;/strong&gt;, waar hij deel uitmaakt van het open-source team. Hij heeft een bijzondere interesse in &lt;strong&gt;NLP&lt;/strong&gt; en draagt bij aan open-source bibliotheken zoals de Hugging Face Transformers-library, waarbij hij vooral werkt met deep learning-modellen, PyTorch en Google Colab. Op X (Twitter) heeft hij inmiddels meer dan 20.000 volgers, wat wel aantoont dat hij een bekende stem is in de internationale ML-gemeenschap. Kortom: iemand met veel praktijkervaring en een duidelijke link met de tools waarover hij sprak.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
