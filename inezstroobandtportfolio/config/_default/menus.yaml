@@ -1,0 +1,64 @@
+main:
+  - name: Posts
+    pageRef: /posts
+    weight: 10
+    params:
+      icon: posts
+
+  - name: Projects
+    pageRef: /projects
+    weight: 20
+    params:
+      icon: projects
+
+  # Example: parent item with dropdown submenu children
+  - name: More
+    weight: 30
+    params:
+      icon: layers
+
+  - name: About
+    weight: 1
+    pageRef: /about
+    parent: More
+    params:
+      icon: about
+
+  - name: Media
+    weight: 5
+    pageRef: /media
+    parent: More
+    params:
+      icon: message
+
+# footer menu
+footer:
+  - name: About
+    pageRef: /about
+    weight: 10
+    params:
+      icon: about
+
+  - name: Resume
+    pageRef: /resume
+    weight: 20
+    params:
+      icon: file-text
+
+# footer social link
+social:
+  - name: GitHub
+    url: https://github.com/istroobandt
+    weight: 10
+    params:
+      icon: github
+  - name: LinkedIn
+    url: www.linkedin.com/in/inez-stroobandt
+    weight: 20
+    params:
+      icon: linkedin
+  - name: Email
+    url: mailto:inez.stroobandt@outlook.com
+    weight: 30
+    params:
+      icon: email

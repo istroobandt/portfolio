@@ -1,0 +1,9 @@
+en:
+  locale: en
+  label: "English"
+  weight: 1
+
+nl:
+  locale: nl-NL
+  label: "Nederlands"
+  weight: 2

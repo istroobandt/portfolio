@@ -1,0 +1,64 @@
+main:
+  - name: Berichten
+    pageRef: /posts
+    weight: 10
+    params:
+      icon: posts
+
+  - name: Projecten
+    pageRef: /projects
+    weight: 20
+    params:
+      icon: projects
+
+  # Voorbeeld: bovenliggend item met submenu-items
+  - name: Meer
+    weight: 30
+    params:
+      icon: layers
+
+  - name: Over mij
+    weight: 1
+    pageRef: /about
+    parent: Meer
+    params:
+      icon: about
+
+  - name: Media
+    weight: 5
+    pageRef: /media
+    parent: Meer
+    params:
+      icon: message
+
+# voettekstmenu
+footer:
+  - name: Over mij
+    pageRef: /about
+    weight: 10
+    params:
+      icon: about
+
+  - name: cv
+    pageRef: /resume
+    weight: 20
+    params:
+      icon: file-text
+
+# voettekst sociale links
+social:
+  - name: GitHub
+    url: https://github.com/istroobandt
+    weight: 10
+    params:
+      icon: github
+  - name: LinkedIn
+    url: www.linkedin.com/in/inez-stroobandt
+    weight: 20
+    params:
+      icon: linkedin
+  - name: E-mail
+    url: mailto:inez.stroobandt@outlook.com
+    weight: 30
+    params:
+      icon: email
