@@ -3,7 +3,7 @@ Thumbs.db
 .DS_Store
 
 # Hugo build artifacts
-# public/
+public/
 resources/
 .hugo_build.lock
 hugo_stats.json
