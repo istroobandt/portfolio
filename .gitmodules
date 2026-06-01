@@ -6,10 +6,6 @@
 	path = inezstroobandtportfolio/hugo-narrow
 	url = https://github.com/tom2almighty/hugo-narrow.git
 	branch = main
-[submodule "inezstroobandtportfolio/istroobandt.github.io"]
-	path = inezstroobandtportfolio/istroobandt.github.io
-	url = https://github.com/istroobandt/istroobandt.github.io.git
-	branch = main
 [submodule "inezstroobandtportfolio/inezstroobandtportfolio/themes/hugo-narrow"]
 	path = inezstroobandtportfolio/inezstroobandtportfolio/themes/hugo-narrow
 	url = https://github.com/tom2almighty/hugo-narrow.git
