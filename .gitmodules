@@ -1,14 +1,8 @@
 [submodule "inezstroobandtportfolio/public"]
-	path = inezstroobandtportfolio/public
-	url = https://github.com/istroobandt/istroobandt.github.io.git
-	branch = main
-[submodule "inezstroobandtportfolio/hugo-narrow"]
-	path = inezstroobandtportfolio/hugo-narrow
-	url = https://github.com/tom2almighty/hugo-narrow.git
-	branch = main
-[submodule "inezstroobandtportfolio/inezstroobandtportfolio/themes/hugo-narrow"]
-	path = inezstroobandtportfolio/inezstroobandtportfolio/themes/hugo-narrow
-	url = https://github.com/tom2almighty/hugo-narrow.git
+    path = inezstroobandtportfolio/public
+    url = https://github.com/istroobandt/istroobandt.github.io.git
+    branch = main
 [submodule "inezstroobandtportfolio/themes/hugo-narrow"]
 	path = inezstroobandtportfolio/themes/hugo-narrow
 	url = https://github.com/tom2almighty/hugo-narrow.git
+    branch = main
