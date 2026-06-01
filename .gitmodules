@@ -9,3 +9,6 @@
 [submodule "inezstroobandtportfolio/inezstroobandtportfolio/themes/hugo-narrow"]
 	path = inezstroobandtportfolio/inezstroobandtportfolio/themes/hugo-narrow
 	url = https://github.com/tom2almighty/hugo-narrow.git
+[submodule "inezstroobandtportfolio/themes/hugo-narrow"]
+	path = inezstroobandtportfolio/themes/hugo-narrow
+	url = https://github.com/tom2almighty/hugo-narrow.git
