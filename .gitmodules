@@ -1,6 +1,6 @@
 [submodule "inezstroobandtportfolio/public"]
-    path = inezstroobandtportfolio/public
-    url = https://github.com/istroobandt/istroobandt.github.io.git
+	path = inezstroobandtportfolio/public
+	url = https://github.com/istroobandt/istroobandt.github.io.git
     branch = main
 [submodule "inezstroobandtportfolio/themes/hugo-narrow"]
 	path = inezstroobandtportfolio/themes/hugo-narrow
