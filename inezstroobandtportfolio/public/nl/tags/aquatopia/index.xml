@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Aquatopia on Inez Stroobandt Portfolio</title>
+		<link>https://istroobandt.github.io/nl/tags/aquatopia/</link>
+		<description>Recent content in Aquatopia on Inez Stroobandt Portfolio</description>
+		<generator>Hugo</generator>
+		<language>nl-NL</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://istroobandt.github.io/nl/tags/aquatopia/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hack The Future 2025 – Aquatopia</title>
+				<link>https://istroobandt.github.io/nl/posts/aquatopia/</link>
+				<pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>https://istroobandt.github.io/nl/posts/aquatopia/</guid>
+				<description>&lt;p&gt;Hack The Future is een jaarlijkse hackathon van de &lt;strong&gt;Cronos Groep&lt;/strong&gt;, bedoeld voor studenten in hun laatste of voorlaatste jaar van een IT- of creatieve opleiding. De twaalfde editie draaide rond &lt;strong&gt;Aquatopia&lt;/strong&gt;: een futuristische onderwaterwereld die als rode draad door alle challenges liep. Ik deed mee aan dag 1, de IT-dag, en werkte samen met een medestudent aan de challenge van &lt;strong&gt;Flexso: S.O.S. Abyss&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Het scenario speelde zich af in het jaar 2550: een onderwaterbasis was aangevallen en wij waren de enige overlevenden. De opdracht was om de beschadigde systemen te herstellen, uit te zoeken wat er misgelopen was, en op tijd te ontsnappen voor het gevaar terugkwam. Technisch werkte de challenge met &lt;strong&gt;TypeScript&lt;/strong&gt;, een &lt;strong&gt;MVC-framework aan de frontend&lt;/strong&gt; en &lt;strong&gt;Node.js als middleware&lt;/strong&gt;. Op papier een klassieke fullstack-opstelling, maar in de praktijk vooral een race tegen de klok, met een verhaallijn die alles net wat levendiger maakte.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Lovable on Inez Stroobandt Portfolio</title>
+		<link>https://istroobandt.github.io/tags/lovable/</link>
+		<description>Recent content in Lovable on Inez Stroobandt Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://istroobandt.github.io/tags/lovable/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Vibe Coding Hackathon</title>
+				<link>https://istroobandt.github.io/posts/lovable/</link>
+				<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>https://istroobandt.github.io/posts/lovable/</guid>
+				<description>&lt;p&gt;On March 10, 2026, I took part in the &lt;strong&gt;Vibe Coding Hackathon&lt;/strong&gt;, organized by Howest. It was a full day in which teams had to go from a vague idea to a working application. The fact that the event sold out immediately showed how much interest there was.&lt;/p&gt;&#xA;&lt;p&gt;Unlike the previous Tech&amp;amp;Meet evenings, this was not a passive listening session, but a hands-on competition. The central concept was &lt;strong&gt;vibe coding&lt;/strong&gt;: building software by guiding AI models such as Claude, GPT-4o, or Gemini through natural language instead of writing every line of code yourself. The event slogan summed it up well: you provide the vision, the AI does the heavy lifting.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
